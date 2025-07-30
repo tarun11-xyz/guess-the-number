@@ -12,7 +12,7 @@ A beginner-friendly command-line Python game where you try to guess a randomly s
 * 🔁 Unlimited attempts until you guess correctly
 * 📉 Feedback for each guess: "Higher" or "Lower"
 * 🔢 Guess counter that tracks total attempts
-* ⚠️ Range validation with helpful error messages
+* ⚠️ Range validation with helpful error messages.
 * 💬 Simple and interactive user experience.
 
 ---
